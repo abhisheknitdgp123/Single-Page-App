@@ -1,4 +1,4 @@
-tutorialApp.controller('MyCtrl', function ($scope) {
+MyApp.controller('MyCtrl', function ($scope) {
 
 //Define the `myDataSource` scope variable.  
 $scope.myDataSource = {
